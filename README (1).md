@@ -1,7 +1,7 @@
 
 # Heart Disease Prediction
 
-The goal of this project is to predict the presence of heart disease in a patient.
+The goal of this project is to build a Machone Learning model that can predict the presence of heart disease in a patient.
 
 # Data Sourcing
 The dataset used for this project was gotten from Kaggle.
